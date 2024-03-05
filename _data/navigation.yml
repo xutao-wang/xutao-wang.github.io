@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Softwares"
-    url: /softwares/    
+#  - title: "Softwares"
+#    url: /softwares/    
 
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "News"
-    url: /news/    
+#  - title: "News"
+#    url: /news/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
@@ -19,7 +19,7 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: /files/CV_DongyuanSong.pdf
+    url: /files/CV_XutaoWang.pdf
     
  # - title: "Guide"
  #   url: /markdown/

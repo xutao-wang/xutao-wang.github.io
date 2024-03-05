@@ -83,12 +83,12 @@ author:
   name             : "Xutao Wang"
   avatar           : "profile.jpg"
   bio              : "Ph.D. candidate in Biostatistics at Boston University"
-  location         : "Boston, Massachusetts"
+  location         : "Boston, Massachusetts, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Dongyuan%20Song"
-  googlescholar    : "https://scholar.google.com/citations?user=on0VpSsAAAAJ&hl=en&oi=ao"
-  email            : "dongyuansong@ucla.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=Dongyuan%20Song"
+  googlescholar    : https://scholar.google.com/citations?user=d0_GM9EAAAAJ&hl=en
+  email            : "xutaow@bu.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SONGDONGYUAN1994"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "SongDongyuan"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
