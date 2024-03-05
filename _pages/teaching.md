@@ -19,4 +19,4 @@ author_profile: true
 - Alex Sierra, Undergraduate student at Southern Utah University (01/2024-05/2024)
 - Andrew Smith, Undergraduate student at Southern Utah University (01/2024-05/2024)
 - Elie Wamana, Undergraduate student at Southern Utah University (01/2024-05/2024)
-- Samantha MacDonald, Undergraduate student at Brigham Young University (05/2023-present)
+- Samantha MacDonald, Undergraduate student at Brigham Young University (05/2023-02/2024)
